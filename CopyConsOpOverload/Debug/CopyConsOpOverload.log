@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CopyConsOpOverload.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assignment.cpp
+d:\onedrive\hnd\year 2\cmp2090 object orintated programming\programming assignment\copyconsopoverload\copyconsopoverload\nns.h(50): error C2614: 'NNS<double>': illegal member initialization: 'tempMatrixWally' is not a base or member
+  d:\onedrive\hnd\year 2\cmp2090 object orintated programming\programming assignment\copyconsopoverload\copyconsopoverload\nns.h(49): note: while compiling class template member function 'NNS<double>::NNS(const char *,int,int)'
+  d:\onedrive\hnd\year 2\cmp2090 object orintated programming\programming assignment\copyconsopoverload\copyconsopoverload\assignment.cpp(15): note: see reference to function template instantiation 'NNS<double>::NNS(const char *,int,int)' being compiled
+  d:\onedrive\hnd\year 2\cmp2090 object orintated programming\programming assignment\copyconsopoverload\copyconsopoverload\assignment.cpp(15): note: see reference to class template instantiation 'NNS<double>' being compiled
+d:\onedrive\hnd\year 2\cmp2090 object orintated programming\programming assignment\copyconsopoverload\copyconsopoverload\nns.h(50): error C2614: 'NNS<double>': illegal member initialization: 'tempMatrixLarge' is not a base or member
+d:\onedrive\hnd\year 2\cmp2090 object orintated programming\programming assignment\copyconsopoverload\copyconsopoverload\nns.h(60): error C2065: 'm': undeclared identifier
+d:\onedrive\hnd\year 2\cmp2090 object orintated programming\programming assignment\copyconsopoverload\copyconsopoverload\nns.h(60): error C2143: syntax error: missing ';' before '}'
